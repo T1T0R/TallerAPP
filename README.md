@@ -49,6 +49,5 @@ Este sistema fue desarrollado en **Windows Forms con C# y SQL Server** para gest
 
 ## 😀 LOGO DEL PROYECTO
 
-![Logo](https://github.com/user-attachments/assets/d77ff42a-b9ed-4698-be0b-8e1fc058136f)
 
-
+![Logo](https://github.com/user-attachments/assets/cb1479e8-3bbd-451c-96dd-9ef9814980ea)

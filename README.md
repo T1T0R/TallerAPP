@@ -38,23 +38,23 @@ Este sistema fue desarrollado en **Windows Forms con C# y SQL Server** para gest
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/e3fbf5b6-68f9-4364-9d68-e9859f7cc6f2" width="600px" />
+  <img src="https://github.com/user-attachments/assets/e3fbf5b6-68f9-4364-9d68-e9859f7cc6f2" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/0d38279c-c67b-4d69-86a2-a149c49108ee" width="600px" />
+  <img src="https://github.com/user-attachments/assets/0d38279c-c67b-4d69-86a2-a149c49108ee" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/bb1c1973-863f-4d8a-86fc-a15415f9e416" width="600px" />
+  <img src="https://github.com/user-attachments/assets/bb1c1973-863f-4d8a-86fc-a15415f9e416" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/812075c3-6b73-4bd3-a5e7-9494dc4922f3" width="600px" />
+  <img src="https://github.com/user-attachments/assets/812075c3-6b73-4bd3-a5e7-9494dc4922f3" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/e71a0d4e-c6cd-4bbd-8fcd-f8554f687414" width="600px" />
+  <img src="https://github.com/user-attachments/assets/e71a0d4e-c6cd-4bbd-8fcd-f8554f687414" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/48e4be2f-926f-40a7-add9-ab079862f802" width="600px" />
+  <img src="https://github.com/user-attachments/assets/48e4be2f-926f-40a7-add9-ab079862f802" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/1a71a1e3-9ba7-4863-8219-f447ca5e21e8" width="600px" />
+  <img src="https://github.com/user-attachments/assets/1a71a1e3-9ba7-4863-8219-f447ca5e21e8" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/8110fca9-f4d0-4f25-8904-f5c223dc7bf3" width="600px" />
+  <img src="https://github.com/user-attachments/assets/8110fca9-f4d0-4f25-8904-f5c223dc7bf3" width="800px" />
   <br/>
-  <img src="https://github.com/user-attachments/assets/6fa72f7f-ad27-4dfa-8817-5a453abc7bea" width="600px" />
+  <img src="https://github.com/user-attachments/assets/6fa72f7f-ad27-4dfa-8817-5a453abc7bea" width="800px" />
 
 </div>
 
